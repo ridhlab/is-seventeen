@@ -1,8 +1,12 @@
 {
     "name": "is-seventeen",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "Check if number is equal to 17",
     "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ridhlab/is-seventeen"
+    },
     "scripts": {
         "test": "npx tap test.js"
     },
