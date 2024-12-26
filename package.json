@@ -1,0 +1,14 @@
+{
+    "name": "is-seventeen",
+    "version": "0.0.0",
+    "description": "Check if number is equal to 17",
+    "main": "index.js",
+    "scripts": {
+        "test": "npx tap test.js"
+    },
+    "author": "Moh Ridwan , mohridwan1707@gmail.com",
+    "license": "ISC",
+    "devDependencies": {
+        "tap": "^21.0.1"
+    }
+}
